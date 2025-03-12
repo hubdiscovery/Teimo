@@ -1,0 +1,1 @@
+This repository features projects showcasing my expertise in data analysis SQL and the intersection of AI and cloud computing. The SQL project highlights data querying and optimization techniques, the Capstone project demonstrates advanced analytics and insights, and tech money projects explores profitability trends in AI and cloud tech.
